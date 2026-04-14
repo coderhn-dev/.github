@@ -41,7 +41,7 @@ No solo entregamos código; entregamos resultados. Nuestros pilares son:
 
     🌐 Website: coderhn.dev
 
-    💼 Mail: oscarblanco@coderhn.dev 
+    💼 Mail: info@coderhn.dev 
 
 🇭🇳 Proudly Made in Santa Rosa de Copán
 
